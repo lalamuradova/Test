@@ -17,7 +17,9 @@ using namespace std;
 //	}*/
 //}
 
+void add() {
 
+}
 //void func(bool x) {
 //	char* data = new char[1024];//address lost
 //	string text = "hello World";
